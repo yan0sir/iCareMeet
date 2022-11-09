@@ -253,7 +253,10 @@
     flex-direction: column;
     color: #fff;
     background-color: #6184F4;
+    cursor: pointer;
+
   }
+ 
   .home-text026 {
     color: var(--dl-color-default-lighttextcolor);
     height: auto;
@@ -276,6 +279,8 @@
     border-width: 1px;
     border-radius: 5px;
     flex-direction: column;
+    cursor: pointer;
+
   }
   .home-text028 {
     color: var(--dl-color-default-blue);
@@ -371,6 +376,8 @@
     flex-direction: column;
     background-color: #6184F4;
     color: #fff;
+    cursor: pointer;
+
   }
   .home-text034 {
     color: var(--dl-color-default-lighttextcolor);
@@ -392,6 +399,8 @@
     border-width: 1px;
     border-radius: 5px;
     flex-direction: column;
+    cursor: pointer;
+
   }
   .home-text036 {
     color: var(--dl-color-default-blue);
@@ -479,11 +488,13 @@
   .home-frame13 {
     top: 316px;
     left: 258px;
-    width: 925px;
+    width: 994px;
     display: flex;
     position: absolute;
     align-items: center;
     border-color: transparent;
+    flex-wrap: nowrap;
+    justify-content: space-between;
   }
   .home-rectangle1 {
     width: 400px;
@@ -556,6 +567,8 @@
     flex-direction: column;
     background-color: rgba(255, 255, 255, 1);
     color: #6184F4;
+    cursor: pointer;
+
   }
   .home-text046 {
     color: var(--dl-color-default-blue);
@@ -579,6 +592,8 @@
     border-width: 1px;
     border-radius: 5px;
     flex-direction: column;
+    cursor: pointer;
+
   }
   .home-text048 {
     color: rgba(255, 255, 255, 1);
@@ -661,6 +676,8 @@
     border-radius: 5px;
     flex-direction: column;
     background-color: rgba(255, 255, 255, 1);
+    cursor: pointer;
+
   }
   .home-text054 {
     color: var(--dl-color-default-blue);
@@ -682,6 +699,8 @@
     border-width: 1px;
     border-radius: 5px;
     flex-direction: column;
+    cursor: pointer;
+
   }
   .home-text056 {
     color: rgba(255, 255, 255, 1);
@@ -778,6 +797,8 @@
     border-radius: 5px;
     flex-direction: column;
     background-color: rgba(255, 255, 255, 1);
+    cursor: pointer;
+
   }
   .home-text062 {
     color: var(--dl-color-default-blue);
@@ -799,6 +820,8 @@
     border-width: 1px;
     border-radius: 5px;
     flex-direction: column;
+    cursor: pointer;
+
   }
   .home-text064 {
     color: rgba(255, 255, 255, 1);
@@ -1069,6 +1092,8 @@
     border-radius: 5px;
     flex-direction: column;
     background-color: var(--dl-color-default-blue);
+    cursor: pointer;
+
   }
   .home-text086 {
     color: var(--dl-color-default-lighttextcolor);
@@ -1090,6 +1115,8 @@
     border-width: 1px;
     border-radius: 5px;
     flex-direction: column;
+    cursor: pointer;
+
   }
   .home-text088 {
     color: var(--dl-color-default-blue);
@@ -1281,6 +1308,8 @@
     border-width: 1px;
     border-radius: 5px;
     flex-direction: column;
+    cursor: pointer;
+
   }
   .home-text104 {
     color: var(--dl-color-default-blue);
@@ -1783,6 +1812,8 @@
     border-width: 1px;
     border-radius: 5px;
     flex-direction: column;
+    cursor: pointer;
+
   }
   .home-text113 {
     color: var(--dl-color-default-blue);
@@ -1916,6 +1947,8 @@ background-image: url("img/howbg.png");
     border-width: 1px;
     border-radius: 5px;
     flex-direction: column;
+    cursor: pointer;
+
   }
   .home-text121 {
     color: var(--dl-color-default-blue);
@@ -2475,6 +2508,8 @@ background-image: url("img/howbg.png");
     border-width: 1px;
     border-radius: 5px;
     flex-direction: column;
+    cursor: pointer;
+
   }
   .home-text157 {
     color: var(--dl-color-default-blue);
@@ -2900,6 +2935,8 @@ background-image: url("img/howbg.png");
     border-radius: 5px;
     flex-direction: column;
     background-color: #ffffff;
+    cursor: pointer;
+
   }
   .home-text177 {
     color: var(--dl-color-default-blue);
@@ -2921,6 +2958,8 @@ background-image: url("img/howbg.png");
     border-width: 1px;
     border-radius: 5px;
     flex-direction: column;
+    cursor: pointer;
+
   }
   .home-text179 {
     color: #efe9e9;
@@ -3163,6 +3202,8 @@ background-image: url("img/howbg.png");
     border-color: transparent;
     border-radius: 30px;
     background-color: #6184F4;
+    cursor: pointer;
+
   }
   .home-text198 {
     color: #fff;
@@ -3522,6 +3563,8 @@ background-image: url("img/howbg.png");
     border-color: transparent;
     border-radius: 30px;
     background-color: var(--dl-color-default-blue);
+    cursor: pointer;
+
   }
   .home-text214 {
     color: var(--dl-color-default-lighttextcolor);
@@ -3834,6 +3877,8 @@ background-image: url("img/howbg.png");
     border-radius: 5px;
     flex-direction: column;
     background-color: var(--dl-color-default-blue);
+    cursor: pointer;
+
   }
   .home-text222 {
     color: var(--dl-color-default-lighttextcolor);
@@ -3855,6 +3900,8 @@ background-image: url("img/howbg.png");
     border-width: 1px;
     border-radius: 5px;
     flex-direction: column;
+    cursor: pointer;
+
   }
   .home-text224 {
     color: var(--dl-color-default-blue);
@@ -4475,7 +4522,7 @@ background-image: url("img/howbg.png");
   }
   .home-line13 {
     width: 100px;
-    height: 0px;
+    height: 5px;
     position: relative;
     margin-bottom: 35px;
   }
@@ -4527,6 +4574,8 @@ background-image: url("img/howbg.png");
     border-radius: 5px;
     flex-direction: column;
     background-color: rgba(255, 255, 255, 1);
+    cursor: pointer;
+
   }
   .home-text273 {
     color: var(--dl-color-default-blue);
@@ -4548,6 +4597,8 @@ background-image: url("img/howbg.png");
     border-width: 1px;
     border-radius: 5px;
     flex-direction: column;
+    cursor: pointer;
+
   }
   .home-text275 {
     color: rgba(255, 255, 255, 1);
@@ -4986,6 +5037,8 @@ background-image: url("img/howbg.png");
     border-radius: 5px;
     flex-direction: column;
     background-color: rgba(255, 255, 255, 1);
+    cursor: pointer;
+
   }
   .home-text302 {
     color: var(--dl-color-default-blue);
@@ -5007,6 +5060,8 @@ background-image: url("img/howbg.png");
     border-width: 1px;
     border-radius: 5px;
     flex-direction: column;
+    cursor: pointer;
+
   }
   .home-text304 {
     color: rgba(255, 255, 255, 1);
@@ -5608,7 +5663,7 @@ background-image: url("img/howbg.png");
   .home-frame4091 {
     width: 300px;
     display: flex;
-    padding: 55px 40px;
+    padding: 40px 40px;
     position: relative;
     align-items: flex-start;
     flex-shrink: 0;
@@ -5797,7 +5852,7 @@ background-image: url("img/howbg.png");
     margin-bottom: 15px;
   }
   .home-text336 {
-    color: var(--dl-color-default-blue);
+    color: #6184F4;
     height: auto;
     font-size: 18px;
     align-self: auto;
@@ -5980,6 +6035,8 @@ background-image: url("img/howbg.png");
     border-color: transparent;
     border-radius: 73.5999984741211px;
     justify-content: center;
+    cursor: pointer;
+
    
   }
   .home-icnplayicnsm {
@@ -6293,10 +6350,10 @@ a{
   border-color: transparent;
 }
 .meet-our-therapists-iconparkoutlinelike {
-  top: 10.416736602783203px;
-  left: 10.416015625px;
+  top: 10px;
+  left: 10px;
   width: 31px;
-  height: 31px;
+  height: 27px;
   position: absolute;
 }
 .meet-our-therapists-frame379 {
@@ -6313,14 +6370,14 @@ a{
   flex-direction: column;
 }
 .meet-our-therapists-text014 {
-  color: var(--dl-color-default-);
+  color: #fff;
   height: auto;
   font-size: 28.072917938232422px;
   align-self: auto;
   font-style: Medium;
   text-align: left;
   font-family: Montserrat;
-  font-weight: 500;
+  font-weight: 400;
   line-height: 129.99999523162842%;
   font-stretch: normal;
   margin-right: 0;
@@ -6343,19 +6400,19 @@ a{
 }
 .meet-our-therapists-icbaselinehomerepairservice {
   width: 28px;
-  height: 28px;
+  height: 23px;
   position: relative;
   margin-right: 14.036458969116211px;
 }
 .meet-our-therapists-text016 {
-  color: var(--dl-color-default-);
+  color: #fff;
   height: auto;
-  font-size: 19.651042938232422px;
+  font-size: 18px;
   align-self: auto;
   font-style: Regular;
   text-align: left;
   font-family: Montserrat;
-  font-weight: 400;
+  font-weight: 200;
   line-height: 129.99999523162842%;
   font-stretch: normal;
   margin-right: 0;
@@ -6370,7 +6427,7 @@ a{
 }
 .meet-our-therapists-bxsmessagerounded {
   width: 28px;
-  height: 28px;
+  height: 23px;
   position: relative;
   margin-right: 14.036458969116211px;
 }
@@ -6455,6 +6512,8 @@ a{
   flex-direction: column;
   background-color: #6184F4;
   color: #fff;
+  cursor: pointer;
+
 }
 
 .meet-our-therapists-text024 {
@@ -6477,6 +6536,8 @@ a{
   border-width: 1px;
   border-radius: 5px;
   flex-direction: column;
+  cursor: pointer;
+
 }
 .meet-our-therapists-text026 {
   color: var(--dl-color-default-blue);
@@ -6552,6 +6613,8 @@ a{
   flex-direction: column;
   background-color: #6184F4;
   color: #fff;
+  cursor: pointer;
+
 }
 .meet-our-therapists-text035 {
   color: var(--dl-color-default-lighttextcolor);
@@ -6573,6 +6636,8 @@ a{
   border-width: 1px;
   border-radius: 5px;
   flex-direction: column;
+  cursor: pointer;
+
 }
 .meet-our-therapists-text037 {
   color: var(--dl-color-default-blue);
@@ -6717,7 +6782,7 @@ a{
   font-style: SemiBold;
   text-align: center;
   font-family: Montserrat;
-  font-weight: 600;
+  font-weight: 500;
   line-height: 129.99999523162842%;
   font-stretch: normal;
   margin-right: 0;
@@ -7400,7 +7465,7 @@ a{
   font-style: Regular;
   text-align: left;
   font-family: Montserrat;
-  font-weight: 400;
+  font-weight: 200;
   line-height: 129.99999523162842%;
   font-stretch: normal;
   margin-right: 0;
@@ -10821,3 +10886,40 @@ a{
   height: 40px;
   position: absolute;
 }
+.slidecontainer {
+    width: 295px;
+  }
+  
+  .slider {
+    -webkit-appearance: none;
+    width: 100%;
+    height: 15px;
+    border-radius: 5px;
+    background: #DADCE0;
+    outline: none;
+    opacity: 0.7;
+    -webkit-transition: .2s;
+    transition: opacity .2s;
+  }
+  
+  .slider:hover {
+    opacity: 1;
+  }
+  
+  .slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background: #6184F4;
+    cursor: pointer;
+  }
+  
+  .slider::-moz-range-thumb {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background: #6184F4;
+    cursor: pointer;
+  }
